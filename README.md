@@ -142,7 +142,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you encounter any issues or have questions, feel free to reach out through the following channels:
 
-- Open an issue on the [GitHub repository](https://github.com/qtecsolution/Linkedin-Sales-Navigator-Scraper).
+- Open an issue on the [GitHub repository](https://github.com/qtecsolution/whatsapp-group-scraper).
 - **Call for Queries**: +8801313522828 (WhatsApp)
 - **Contact Form**: [Qtec Solution Contact Page](https://qtecsolution.com/contact-us)
 - **Email**: [info@qtecsolution.com](mailto:info@qtecsolution.com)
