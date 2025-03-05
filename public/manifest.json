@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "WhatsApp Scraper",
+  "name": "WhatsApp Group Member Scraper",
   "version": "1.0",
-  "description": "Scrape WhatsApp group names and numbers",
+  "description": "Scrape WhatsApp group members names and numbers",
   "permissions": ["activeTab", "scripting", "storage"],
   "host_permissions": ["https://web.whatsapp.com/*"],
   "background": {
