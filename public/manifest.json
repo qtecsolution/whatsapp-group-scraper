@@ -9,7 +9,13 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_popup": "index.html"
+    "default_popup": "index.html",
+    "default_icon": "./images/Whatsapp_Scrapper_Logo.png"
+  },
+  "icons": {
+    "16": "./images/Whatsapp_Scrapper_Logo.png",
+    "48": "./images/Whatsapp_Scrapper_Logo.png",
+    "128": "./images/Whatsapp_Scrapper_Logo.png"
   },
   "content_scripts": [
     {
