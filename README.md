@@ -1,15 +1,26 @@
-# WhatsApp Group Scraper Chrome Extension
+# WhatsApp Group Members Scraper Chrome Extension
 
 ## 🚀 Introduction
 
-The **WhatsApp Group Scraper** is a Chrome extension designed to extract participant data from WhatsApp groups. It helps users gather useful insights from group members while ensuring privacy compliance.
+**WhatsApp Group Member Scraper** is a powerful Chrome extension designed to help you extract and export participant details from any WhatsApp group via WhatsApp Web. With just a few clicks, you can collect group members’ names and phone numbers and download them in an Excel file for further analysis and management.
 
 ## 🔥 Features
 
 - Scrape WhatsApp group members' names and phone numbers (if visible)
 - Export data as CSV
+- No data is stored – works directly on your browser
+- 100% secure and private
 - Easy-to-use Chrome extension UI
 - Fast and efficient data extraction
+
+## Demo
+
+Watch the video below to see how the extension works:
+
+
+<a href="https://www.youtube.com/watch?v=UZraZN6G5KI" target="_blank">
+   <img src="./public/images/WhatsApp-Scraper-play.png" alt="WhatsApp-Scraper-play.png" width="600"/>
+</a>
 
 ## Installation Guide
 
@@ -31,7 +42,7 @@ The **WhatsApp Group Scraper** is a Chrome extension designed to extract partici
      <br>
    - The extension is now ready to use!
      <br>
-     <img width="450" height="220" alt="whatsapp extension" src="./public/images/whatsapp_group_scrapper.png" />
+     <img width="480"  alt="whatsapp extension" src="./public/images/WhatsApp-Scraper.jpg" />
 
 ---
 
